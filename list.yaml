@@ -1,3 +1,4 @@
+---
 # Please order list alphanumerically
 alacritty: https://github.com/aarowill/base16-alacritty
 amfora: https://github.com/jo1gi/base16-amfora
@@ -33,6 +34,7 @@ joe: https://github.com/jjjordan/base16-joe
 kakoune: https://github.com/aprilarcus/base16-kakoune
 kitty: https://github.com/kdrag0n/base16-kitty
 konsole: https://github.com/cskeeters/base16-konsole
+lightline: https://github.com/mike-hearn/base16-vim-lightline.git
 luakit: https://github.com/twnaing/base16-luakit
 mako: https://github.com/Eluminae/base16-mako
 mintty: https://github.com/iamthad/base16-mintty
@@ -46,7 +48,7 @@ pywal: https://github.com/metalelf0/base16-pywal
 qownnotes: https://github.com/themix-project/base16-template-qOwnNotes
 qtcreator: https://github.com/ilpianista/base16-qtcreator
 qutebrowser: https://github.com/theova/base16-qutebrowser
-#radare2: https://github.com/jtalowell/base16-radare2
+# radare2: https://github.com/jtalowell/base16-radare2
 rofi: https://gitlab.com/0xdec/base16-rofi
 scide: https://github.com/brunoro/base16-scide
 shell: https://github.com/chriskempson/base16-shell
@@ -76,7 +78,6 @@ xfce4-terminal: https://github.com/afq984/base16-xfce4-terminal
 xresources: https://github.com/chriskempson/base16-xresources
 xshell: https://github.com/h404bi/base16-xshell
 zathura: https://github.com/nicodebo/base16-zathura
-
 # Disabled until https://gitlab.com/theova/base16-telegram-desktop/issues/1 is
 # resolved.
 # telegram-desktop: https://gitlab.com/theova/base16-telegram-desktop
